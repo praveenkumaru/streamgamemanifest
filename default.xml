@@ -9,7 +9,7 @@
            fetch="." />
   <remote  name="streamagame-tubit"
            fetch="https://gitlab.tubit.tu-berlin.de/justus.beyer/" />
-  <default revision="refs/tags/android-6.0.1_r1"
+  <default revision="refs/tags/android-6.0.1_r79"
            remote="aosp"
            sync-c="true"
            sync-j="4" />

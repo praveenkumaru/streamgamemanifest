@@ -20,7 +20,7 @@
   <project path="external/qemu" name="streamagame_platform_external_qemu.git" remote="streamagame" groups="pdk-cw-fs" revision="streamagame-lollipop-x86" />
   <project path="device/generic/common" name="streamagame_device_generic_common.git" groups="pdk" remote="streamagame" revision="streamagame-lollipop-x86" />
   <project path="sdk" name="streamagame_platform_sdk.git" groups="pdk-cw-fs" remote="streamagame" revision="streamagame-lollipop-x86" />
-  <project path="bootable/newinstaller" name="streamagame_bootable_newinstaller.git" remote="streamagame" revision="streamagame-lollipop-x86" />
+  <project path="bootable/newinstaller" name="streamagame_bootable_newinstaller.git" remote="streamagame" revision="lollipop-x86" />
   <project path="system/netd" name="streamagame_platform_system_netd.git" remote="streamagame" groups="pdk" revision="streamagame-lollipop-x86" />
   <project path="kernel" name="streamagame_kernel.git" remote="streamagame" revision="streamagame-kernel-4.0" />
   <project path="packages/apps/Settings" name="streamagame_platform_packages_apps_Settings.git" remote="streamagame" revision="streamagame-lollipop-x86" />
